@@ -1,0 +1,2 @@
+{'data_refeicao': '05/03', 'hora_refeicao': '21:45', 'item_refeicao': ['pipoca', 'pudim'], 'tipo_refeicao': 4}
+{'data_refeicao': '08/03', 'hora_refeicao': '08:59', 'item_refeicao': ['salada', 'grão-de-bico'], 'tipo_refeicao': 5}

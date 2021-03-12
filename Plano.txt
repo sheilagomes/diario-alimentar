@@ -1,0 +1,17 @@
+Ter lista de comidas e de refeições
+
+Receber tipo de refeição (Café da manhã, Lanche da manhã, Almoço, Lanche da manhã, Jantar)
+
+Receber horário (automático, mas editável)
+
+Receber comida1 (usar a lista, mostrar a partir de 3 caracteres)
+
+Repetir entrada de comida até espaço vazio
+
+Mostrar entrada tipo, hora, comidas separados em linhas
+
+Pedir confirmação
+
+Se estiver errado, mostrar tipo e confirmação ao lado, mostrar hora e confirmação ao lado, mostrar comida1 e confirmação ao lado, mostrar comida2 e confirmação ao lado, etc até o fim
+
+Se estiver certo, criar entrada separada por tabulação e salvar anexando ao final do arquivo de texto geral.

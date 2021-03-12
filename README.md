@@ -1,2 +1,2 @@
 # diario-alimentar
-Um app para registrar refeições diárias
+Um app em Python para registrar refeições diárias
